@@ -1,0 +1,11 @@
+Comment,Designator,Footprint,LCSC
+"0.1uF","C1,C3,C4","Capacitor_SMD:C_0402_1005Metric","C110251"
+"22uF","C2","Capacitor_SMD:C_0805_2012Metric","C5674"
+"LED","D1","LED_SMD:LED_0603_1608Metric","C434421"
+"Conn_01x09_Socket","J1","Connector_JST:JST_ZH_S9B-ZR-SM4A-TF_1x09-1MP_P1.50mm_Horizontal",""
+"Conn_01x05_Socket","J2","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical",""
+"10K","R1","Resistor_SMD:R_0402_1005Metric","C60490"
+"1K","R2","Resistor_SMD:R_0402_1005Metric","C106235"
+"TLV76733DRVx","U1","Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias","C2848334"
+"ESP32-WROOM-E","U2","PCM_Espressif:ESP32-WROOM-32E","C701341"
+"TXU0104RUTR","U3","Package_DFN_QFN:Texas_R-PUQFN-N12","C5187176"

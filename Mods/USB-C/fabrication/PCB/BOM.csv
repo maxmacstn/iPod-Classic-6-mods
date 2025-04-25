@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"J1","5052701012","5052701012","Connector_Molex:MOLEX_505270_1012","1",""
+"J2","USB_C_Receptacle_USB2.0_16P","https://www.usb.org/sites/default/files/documents/usb_type-c.zip","Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal","1",""
+"R1,R2","5.1K","~","Resistor_SMD:R_0603_1608Metric","2",""
+"R3","500K","~","Resistor_SMD:R_0603_1608Metric","1",""
+"TP1","TX","~","TestPoint:TestPoint_Pad_1.0x1.0mm","1",""
+"TP2,TP3,TP4","RX","~","TestPoint:TestPoint_Pad_1.0x1.0mm","3",""

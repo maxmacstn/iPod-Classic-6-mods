@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.bak": "cpp",
+        "*.tcc": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "*.2": "cpp",
+        "new": "cpp"
+    }
+}
